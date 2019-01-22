@@ -11,6 +11,7 @@ For all SPFx web parts the source code as well as the SharePoint Package is avai
 The following web parts are available:
 - [Table of Contents web part][link-repo-wptoc]
 - [RSS web part][link-repo-wprss]
+![RSS web part][screenrecording-webpart-rss]
 
 ## Row- and Column Formatting
 
@@ -35,3 +36,5 @@ The following column formatting is available:
 
 [link-repo-rowformatting]: https://github.com/Portiva-O365/row-formatting
 [link-repo-columnformatting]: https://github.com/Portiva-O365/column-formatting
+
+[screenrecording-webpart-rss]: ./resources/screenrecording-webpart-rss.gif
